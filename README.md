@@ -35,7 +35,7 @@ PNG dataset appear similar to the ground truth masks.
 <tr>
 <th>Input: image</th>
 <th>Mask (ground_truth)</th>
-<th>BrightFieldtion: inferred_mask</th>
+<th>Prediction: inferred_mask</th>
 </tr>
 <tr>
 <td><img src="./projects/TensorFlowFlexUNet/BrightField-Weak-Boundary/mini_test/images/10003.png" width="320" height="auto"></td>
