@@ -28,10 +28,8 @@ a second category. In essence, your single-class segmentation model will operate
 <br>
 <br>
 <b>Acutual Image Segmentation for 512x512 BrightField-Weak-Boundary images</b><br>
-
 As shown below, the inferred masks preBrightFieldted by our segmentation model trained on the 
-PNG dataset appear similar to the ground truth masks, 
-<br>
+PNG dataset appear similar to the ground truth masks.
 <br>
 <table>
 <tr>
